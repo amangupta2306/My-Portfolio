@@ -41,7 +41,7 @@ export const Links = () => {
       >
         <Link
           href={
-            "https://drive.google.com/file/d/1M1H4BjsVQhRJ1ocBJ33cxqZ-QnSAw1By/view?usp=sharing"
+            "https://drive.google.com/file/d/1w9doMxmp1eAEMzflViqdupUCsool_Xh8/view?usp=drive_link"
           }
           target="_blank"
         >

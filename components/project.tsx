@@ -31,7 +31,7 @@ export const Project = () => {
         "mongodb",
         "prisma",
         "node js",
-        "next auth",
+        "auth js",
         "tailwind css",
       ],
       githubLink: "https://github.com/amangupta2306/B2B-Invoice-Management",
